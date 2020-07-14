@@ -1,4 +1,4 @@
-Ωversion: '3'
+version: '3'
 
 volumes:
   db-data:
